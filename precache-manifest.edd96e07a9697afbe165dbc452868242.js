@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba3a0e88ad7199b07a39812b976e8765",
+    "revision": "91e44a4da094f619357fbfe4b58281c0",
     "url": "/mammy-baby-reader.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mammy-baby-reader.github.io/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "a249c3741ca12619d7e9",
+    "revision": "3016ca9bcd837a4bd8e9",
     "url": "/mammy-baby-reader.github.io/static/css/main.f216e56d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mammy-baby-reader.github.io/static/js/2.90acc010.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a249c3741ca12619d7e9",
-    "url": "/mammy-baby-reader.github.io/static/js/main.1336f3a7.chunk.js"
+    "revision": "3016ca9bcd837a4bd8e9",
+    "url": "/mammy-baby-reader.github.io/static/js/main.161848d7.chunk.js"
   },
   {
     "revision": "2dde921db57e35b52462",
