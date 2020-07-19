@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mammy-baby-reader.github.io/static/css/main.f216e56d.chunk.css",
+    "main.js": "/mammy-baby-reader.github.io/static/js/main.d602c8df.chunk.js",
+    "main.js.map": "/mammy-baby-reader.github.io/static/js/main.d602c8df.chunk.js.map",
+    "runtime-main.js": "/mammy-baby-reader.github.io/static/js/runtime-main.acda8179.js",
+    "runtime-main.js.map": "/mammy-baby-reader.github.io/static/js/runtime-main.acda8179.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/mammy-baby-reader.github.io/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.90acc010.chunk.js": "/mammy-baby-reader.github.io/static/js/2.90acc010.chunk.js",
+    "static/js/2.90acc010.chunk.js.map": "/mammy-baby-reader.github.io/static/js/2.90acc010.chunk.js.map",
+    "index.html": "/mammy-baby-reader.github.io/index.html",
+    "precache-manifest.8272300ad149a97895e8b371f5ceb279.js": "/mammy-baby-reader.github.io/precache-manifest.8272300ad149a97895e8b371f5ceb279.js",
+    "service-worker.js": "/mammy-baby-reader.github.io/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/mammy-baby-reader.github.io/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.f216e56d.chunk.css.map": "/mammy-baby-reader.github.io/static/css/main.f216e56d.chunk.css.map",
+    "static/js/2.90acc010.chunk.js.LICENSE.txt": "/mammy-baby-reader.github.io/static/js/2.90acc010.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acda8179.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.90acc010.chunk.js",
+    "static/css/main.f216e56d.chunk.css",
+    "static/js/main.d602c8df.chunk.js"
+  ]
+}
