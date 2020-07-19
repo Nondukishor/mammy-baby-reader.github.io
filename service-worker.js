@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mammy-baby-reader.github.io/precache-manifest.f8bd40d68f8da26581844554ec42900d.js"
+  "/mammy-baby-reader.github.io/precache-manifest.14342f68325813ed660564e34c88adee.js"
 );
 
 self.addEventListener('message', (event) => {
