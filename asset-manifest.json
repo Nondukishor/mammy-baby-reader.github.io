@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mammy-baby-reader.github.io/static/css/main.f216e56d.chunk.css",
-    "main.js": "/mammy-baby-reader.github.io/static/js/main.26832a9c.chunk.js",
-    "main.js.map": "/mammy-baby-reader.github.io/static/js/main.26832a9c.chunk.js.map",
+    "main.js": "/mammy-baby-reader.github.io/static/js/main.fc3876b8.chunk.js",
+    "main.js.map": "/mammy-baby-reader.github.io/static/js/main.fc3876b8.chunk.js.map",
     "runtime-main.js": "/mammy-baby-reader.github.io/static/js/runtime-main.acda8179.js",
     "runtime-main.js.map": "/mammy-baby-reader.github.io/static/js/runtime-main.acda8179.js.map",
     "static/css/2.829c9cb5.chunk.css": "/mammy-baby-reader.github.io/static/css/2.829c9cb5.chunk.css",
     "static/js/2.90acc010.chunk.js": "/mammy-baby-reader.github.io/static/js/2.90acc010.chunk.js",
     "static/js/2.90acc010.chunk.js.map": "/mammy-baby-reader.github.io/static/js/2.90acc010.chunk.js.map",
     "index.html": "/mammy-baby-reader.github.io/index.html",
-    "precache-manifest.8aac2b937e19dff6f027285bc9a5b22b.js": "/mammy-baby-reader.github.io/precache-manifest.8aac2b937e19dff6f027285bc9a5b22b.js",
+    "precache-manifest.f8bd40d68f8da26581844554ec42900d.js": "/mammy-baby-reader.github.io/precache-manifest.f8bd40d68f8da26581844554ec42900d.js",
     "service-worker.js": "/mammy-baby-reader.github.io/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/mammy-baby-reader.github.io/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.f216e56d.chunk.css.map": "/mammy-baby-reader.github.io/static/css/main.f216e56d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.90acc010.chunk.js",
     "static/css/main.f216e56d.chunk.css",
-    "static/js/main.26832a9c.chunk.js"
+    "static/js/main.fc3876b8.chunk.js"
   ]
 }
